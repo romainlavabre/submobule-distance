@@ -1,4 +1,4 @@
-package org.romainlavabre;
+package org.romainlavabre.distance;
 
 /**
  * @author Romain Lavabre <romainlavabre98@gmail.com>

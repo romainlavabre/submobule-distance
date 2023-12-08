@@ -1,4 +1,4 @@
-package org.romainlavabre;
+package org.romainlavabre.distance;
 
 import org.springframework.stereotype.Service;
 
